@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(17, 218, 17);
+}
+
+#itm {
+    text-align: center;
+}
+
+img {
+    height: 25em;
+    width: 25em;
+    max-width: 30em;
+    max-height: 30em;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 7px;
+    border-radius: 10px;
+}
+
+blockquote {
+    margin: -75px 10px 10px 10px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(94, 16, 238);
+    font-size: 3em;
+}
